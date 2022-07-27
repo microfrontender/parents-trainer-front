@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/demo/parents-trainer/case1/static/css/main.c1e10f53.css",
+    "main.js": "/demo/parents-trainer/case1/static/js/main.c87ae488.js",
+    "index.html": "/demo/parents-trainer/case1/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.c1e10f53.css",
+    "static/js/main.c87ae488.js"
+  ]
+}
