@@ -1,19 +1,12 @@
-# Структура
 
-Содержимое Main располагается в корне проекта домен/...
-
-Содержимое Case1 располагается в папке домен/case1/...
-
-
-
-# Переменные Main
+# Переменные Index.html
 
 window.apiurl - путь к api
 
 window.basename - путь расположения проекта для react-router ( default: '/')
 
 
-# Переменные Case1
+# Переменные Case1/Index.html
 
 window.apiurl - путь к api
 
