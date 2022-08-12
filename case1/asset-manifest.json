@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/demo/parents-trainer/case1/static/css/main.2b0ba518.css",
-    "main.js": "/demo/parents-trainer/case1/static/js/main.9c778ff7.js",
-    "index.html": "/demo/parents-trainer/case1/index.html"
+    "main.css": "/case1/static/css/main.2b0ba518.css",
+    "main.js": "/case1/static/js/main.76ae27ef.js",
+    "index.html": "/case1/index.html"
   },
   "entrypoints": [
     "static/css/main.2b0ba518.css",
-    "static/js/main.9c778ff7.js"
+    "static/js/main.76ae27ef.js"
   ]
 }
