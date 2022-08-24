@@ -14,4 +14,4 @@ window.basename - путь расположения проекта для react-
 
 window.mediaurl - путь расположения изображений ( default: '/case1')
 
-TEST3
+TEST
