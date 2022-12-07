@@ -1,0 +1,9 @@
+{
+  "short_name": "Тренажер для родителей ",
+  "name": "Тренажер для родителей ",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "landscape",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}

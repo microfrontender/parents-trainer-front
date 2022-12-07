@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/case2/static/css/main.7261173d.css",
+    "main.js": "/case2/static/js/main.fa1bb4e3.js",
+    "static/media/MabryPro-Regular.eot": "/case2/static/media/MabryPro-Regular.14c7c336898640c05f65.eot",
+    "static/media/MabryPro-Regular.ttf": "/case2/static/media/MabryPro-Regular.2bf0938e0ea862db731d.ttf",
+    "static/media/MabryPro-Medium.eot": "/case2/static/media/MabryPro-Medium.4d18d0de9b3e832bfa0e.eot",
+    "static/media/MabryPro-Medium.ttf": "/case2/static/media/MabryPro-Medium.5f430edc95153d4f9db0.ttf",
+    "static/media/MabryPro-Light.eot": "/case2/static/media/MabryPro-Light.b7f4dec45b8e079fc4ba.eot",
+    "static/media/MabryPro-Light.ttf": "/case2/static/media/MabryPro-Light.df8140d966547065a1f5.ttf",
+    "static/media/MabryPro-Regular.woff": "/case2/static/media/MabryPro-Regular.55ea19c83882340ddf0e.woff",
+    "static/media/MabryPro-Medium.woff": "/case2/static/media/MabryPro-Medium.a63fb8b6ab49c1596b4d.woff",
+    "static/media/MabryPro-Light.woff": "/case2/static/media/MabryPro-Light.5da855cede655bc61f76.woff",
+    "static/media/MabryPro-Regular.woff2": "/case2/static/media/MabryPro-Regular.4fe7707649b1983ccb91.woff2",
+    "static/media/MabryPro-Medium.woff2": "/case2/static/media/MabryPro-Medium.141780236a4b440ac82d.woff2",
+    "static/media/MabryPro-Light.woff2": "/case2/static/media/MabryPro-Light.5895446e4869557c3815.woff2",
+    "index.html": "/case2/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.7261173d.css",
+    "static/js/main.fa1bb4e3.js"
+  ]
+}
