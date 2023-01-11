@@ -1,9 +1,9 @@
 {
-  "short_name": "Тренажер для родителей ",
-  "name": "Тренажер для родителей ",
+  "short_name": "Пережить пуберт",
+  "name": "Пережить пуберт",
   "start_url": ".",
   "display": "standalone",
-  "orientation": "landscape",
+  "orientation": "portrait",
   "theme_color": "#ffffff",
   "background_color": "#ffffff"
 }
