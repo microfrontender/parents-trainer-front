@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/case2/static/css/main.d213443a.css",
-    "main.js": "/case2/static/js/main.2abaa959.js",
+    "main.js": "/case2/static/js/main.7de96f56.js",
     "static/media/MabryPro-Regular.eot": "/case2/static/media/MabryPro-Regular.14c7c336898640c05f65.eot",
     "static/media/MabryPro-Regular.ttf": "/case2/static/media/MabryPro-Regular.2bf0938e0ea862db731d.ttf",
     "static/media/MabryPro-Medium.eot": "/case2/static/media/MabryPro-Medium.4d18d0de9b3e832bfa0e.eot",
@@ -18,6 +18,6 @@
   },
   "entrypoints": [
     "static/css/main.d213443a.css",
-    "static/js/main.2abaa959.js"
+    "static/js/main.7de96f56.js"
   ]
 }
