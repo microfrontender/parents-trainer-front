@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/case2/static/css/main.7ee61190.css",
-    "main.js": "/case2/static/js/main.495a3b10.js",
+    "main.css": "/case2/static/css/main.45caf7f7.css",
+    "main.js": "/case2/static/js/main.4157383d.js",
     "static/media/MabryPro-Regular.eot": "/case2/static/media/MabryPro-Regular.14c7c336898640c05f65.eot",
     "static/media/MabryPro-Regular.ttf": "/case2/static/media/MabryPro-Regular.2bf0938e0ea862db731d.ttf",
     "static/media/MabryPro-Medium.eot": "/case2/static/media/MabryPro-Medium.4d18d0de9b3e832bfa0e.eot",
@@ -17,7 +17,7 @@
     "index.html": "/case2/index.html"
   },
   "entrypoints": [
-    "static/css/main.7ee61190.css",
-    "static/js/main.495a3b10.js"
+    "static/css/main.45caf7f7.css",
+    "static/js/main.4157383d.js"
   ]
 }
