@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/case2/static/css/main.57f0e432.css",
+    "main.css": "/case2/static/css/main.1bab17ea.css",
     "main.js": "/case2/static/js/main.584f20e1.js",
     "static/media/MabryPro-Regular.eot": "/case2/static/media/MabryPro-Regular.14c7c336898640c05f65.eot",
     "static/media/MabryPro-Regular.ttf": "/case2/static/media/MabryPro-Regular.2bf0938e0ea862db731d.ttf",
@@ -17,7 +17,7 @@
     "index.html": "/case2/index.html"
   },
   "entrypoints": [
-    "static/css/main.57f0e432.css",
+    "static/css/main.1bab17ea.css",
     "static/js/main.584f20e1.js"
   ]
 }
