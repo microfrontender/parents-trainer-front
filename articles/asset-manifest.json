@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/articles/static/css/main.16720370.css",
+    "main.js": "/articles/static/js/main.0c9dc3ae.js",
+    "static/media/MabryPro-Regular.eot": "/articles/static/media/MabryPro-Regular.14c7c336898640c05f65.eot",
+    "static/media/MabryPro-Regular.ttf": "/articles/static/media/MabryPro-Regular.2bf0938e0ea862db731d.ttf",
+    "static/media/MabryPro-Medium.eot": "/articles/static/media/MabryPro-Medium.4d18d0de9b3e832bfa0e.eot",
+    "static/media/MabryPro-Medium.ttf": "/articles/static/media/MabryPro-Medium.5f430edc95153d4f9db0.ttf",
+    "static/media/MabryPro-Light.eot": "/articles/static/media/MabryPro-Light.b7f4dec45b8e079fc4ba.eot",
+    "static/media/MabryPro-Light.ttf": "/articles/static/media/MabryPro-Light.df8140d966547065a1f5.ttf",
+    "static/media/MabryPro-Regular.woff": "/articles/static/media/MabryPro-Regular.55ea19c83882340ddf0e.woff",
+    "static/media/MabryPro-Medium.woff": "/articles/static/media/MabryPro-Medium.a63fb8b6ab49c1596b4d.woff",
+    "static/media/MabryPro-Light.woff": "/articles/static/media/MabryPro-Light.5da855cede655bc61f76.woff",
+    "static/media/MabryPro-Regular.woff2": "/articles/static/media/MabryPro-Regular.4fe7707649b1983ccb91.woff2",
+    "static/media/MabryPro-Medium.woff2": "/articles/static/media/MabryPro-Medium.141780236a4b440ac82d.woff2",
+    "static/media/MabryPro-Light.woff2": "/articles/static/media/MabryPro-Light.5895446e4869557c3815.woff2",
+    "index.html": "/articles/index.html",
+    "main.16720370.css.map": "/articles/static/css/main.16720370.css.map",
+    "main.0c9dc3ae.js.map": "/articles/static/js/main.0c9dc3ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16720370.css",
+    "static/js/main.0c9dc3ae.js"
+  ]
+}
