@@ -1,0 +1,288 @@
+:root {
+    --white: #FFFFFF;
+    --grey: #F8F8F8;
+    --yellow: #F7F9A5;
+    --greeny: #78A671;
+    --main: var(--greeny);
+    --purple: #6D9FB2;
+    --black: #1A1A1A;
+    --green-on-white: rgba(134, 216, 157, 0.2);
+}
+
+
+html {
+    font-size: 4.27vw;
+    width: 100%;
+    height: 100%;
+    background: var(--white);
+    -webkit-font-smoothing: antialiased;
+    overscroll-behavior: none;
+    -webkit-overflow-scrolling: auto;
+}
+
+body {
+    background: var(--white);
+    color: var(--black);
+    -webkit-font-smoothing: antialiased;
+    overscroll-behavior: none;
+    -webkit-overflow-scrolling: auto;
+    font-family: 'Mabry Pro', sans-serif;
+    width: 100%;
+
+    font-size: 1.25rem;
+    line-height: 130%;
+    font-weight: 300;
+    transition-property: opacity, height;
+    transition-timing-function: ease, ease;
+    transition-duration: 0.3s, 0.5s;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    flex-shrink: 0;
+}
+
+textarea {
+    font: inherit;
+}
+
+.wrap {
+    padding: 2rem 0;
+    position: relative;
+    width: 100%;
+    z-index: 10;
+}
+
+img,
+svg {
+    height: auto;
+    width: 100%;
+    flex-shrink: 0;
+}
+
+h1 {
+    font-size: 2.50rem;
+    line-height: 2.50rem;
+    font-weight: 500;
+}
+
+span,
+p,
+input,
+button,
+a {
+    font: inherit;
+    color: inherit;
+}
+
+h2 {
+    font-weight: 500;
+    margin-bottom: 0.63rem;
+    font-size: 1.75rem;
+    line-height: 1.88rem;
+}
+
+
+p+p {
+    margin-top: 0.5rem;
+}
+
+.wrap {
+    min-height: 100vh;
+    padding: 1.25rem 0 8.75rem;
+    width: 100%
+}
+
+.container {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    position: relative;
+    width: 100%
+}
+
+.header {
+    color: var(--black);
+    font-size: 1.25rem;
+    margin-bottom: 3.75rem
+}
+
+.lead {
+    color: var(--green-dark);
+    font-size: 1.38rem;
+    line-height: 1.75rem;
+    margin-top: 3.6rem
+}
+
+.section {
+    color: var(--black);
+    font-size: 1rem;
+    line-height: 1.25rem
+}
+
+.section a {
+    text-decoration: none
+	
+}
+
+.section h1 {
+    color: var(--green-dark);
+	font-size: 1.7rem;
+    line-height: 120%;
+	margin-bottom: 1.5rem;
+}
+
+.section h2 {
+    font-size: 1.38rem;
+    line-height: 1.75rem;
+    margin-bottom: .33rem
+}
+
+.section ul {
+    list-style: none;
+    padding-left: 1.5rem
+}
+
+.section ul li {
+    position: relative
+}
+
+.section ul li:before {
+    background: var(--black);
+    content: "";
+    height: .14rem;
+    left: -.78em;
+    position: absolute;
+    top: .6em;
+    -webkit-transform: translateZ(0);
+    -moz-transform: translateZ(0);
+    transform: translateZ(0);
+    width: .14rem
+}
+
+.section+.section {
+    margin-top: 2.13rem
+}
+
+.section p+p {
+    margin-top: .5rem
+}
+
+.section p+ul,
+.section ul+p {
+    margin-top: .4rem
+}
+
+.section_1 {
+    font-size: 1.25rem;
+    line-height: 1.69rem
+}
+
+.section_1 p+p {
+    margin-top: 2rem
+}
+
+.section_1 span {
+    line-height: 1.69rem;
+    margin-top: .4rem
+}
+
+@media screen and (min-width: 641px) {
+
+    html {
+        font-size: 1.111vw;
+    }
+
+    .wrap {
+        padding: 6.25rem 0
+    }
+
+    .btn,
+    .fixedBtn {
+        cursor: pointer
+    }
+
+    .container {
+        margin: 0 auto;
+        padding: 0;
+        position: relative;
+        width: 51.25rem
+    }
+
+    .header {
+        color: var(--black);
+        font-size: 1.25rem;
+        margin-bottom: 5.05rem
+    }
+
+    .lead {
+        color: var(--green-dark);
+        font-size: 1.38rem;
+        line-height: 1.75rem;
+        margin-top: 3.6rem
+    }
+	.section{
+		font-size: 1.25rem;
+		line-height: 130%;
+	}
+    .section h1 {
+        color: var(--green-dark);
+        font-size: 2.5rem;
+        line-height: 3rem;
+        font-weight: 500;
+    }
+
+    .section h2 {
+		margin-bottom: 0.5em;
+        font-size: 1.38rem;
+        font-weight: 500;
+        line-height: 1.75rem
+    }
+
+    .section ul {
+        list-style: none;
+        padding-left: 1.5rem
+    }
+
+    .section ul li {
+        position: relative
+    }
+
+    .section ul li:before {
+        background: var(--black);
+        content: "";
+        left: -.78em;
+        position: absolute;
+        top: .6em;
+        height: .14rem;
+        position: absolute;
+        -webkit-transform: translateZ(0);
+        -moz-transform: translateZ(0);
+        transform: translateZ(0);
+        width: .14rem
+    }
+
+    .section+.section {
+        margin-top: 2.3rem
+    }
+	.section p+p {
+		margin-top: .7rem
+	}
+    .section_1 h1+p {
+        margin-top: 2.5rem
+    }
+
+    .section_1 p+p {
+        margin-top: 2.5rem
+    }
+
+    .section_1 span {
+        display: -webkit-flex;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: flex;
+        line-height: 1.69rem;
+        margin-top: .4rem
+    }
+}
