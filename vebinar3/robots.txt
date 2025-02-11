@@ -11,5 +11,5 @@ Disallow: /*_escaped_fragment_*
 Disallow:
 
 
-Sitemap: http://sitedoim.tilda.ws/sitemap.xml
-Host: sitedoim.tilda.ws
+Sitemap: http://pbtt.ru/sitemap.xml
+Host: pbtt.ru
